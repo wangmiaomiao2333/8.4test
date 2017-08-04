@@ -1,0 +1,38 @@
+*{
+	padding:0;
+	margin:0;
+	list-style: none;
+}
+html,body,.wrapper{
+	width:100%;
+	height:100%;
+	overflow: hidden;
+}
+body{
+	font-size: 16px;
+}
+.wrapper{
+	display: flex;
+	flex-direction: column;
+}
+.header{
+	height:.5rem;
+	line-height: .5rem;
+	border-top:1px solid #ccc;
+	border-bottom:1px solid #ccc;
+	padding:0 .54rem;
+}
+.header span{
+	display: inline-block;
+	width:.57rem;
+	font-size: .13rem;
+	color:#595959;
+	margin-right:.25rem;
+	text-align: center;
+}
+.on{
+	border-bottom:1px solid #5686F4;
+}
+.main{
+
+}
