@@ -1,0 +1,38 @@
+.box{
+	height:10px;
+	border-bottom:1px solid #ccc;
+	background: #F3F3FE;
+}
+.content{
+
+}
+.minbox{
+	width:3.29rem;
+	height:1.09rem;
+	margin:14px auto;
+	border-radius: 5px;
+	box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.5)
+}
+.top{
+	height:.63rem;
+	background: #FD6060;
+	color:#fff;
+}
+.top span:nth-child(1){
+	float: left;
+	font-size: .49rem;
+	b{
+		font-size: .23rem;
+	}
+
+}
+.top span:nth-child(2){
+	float: right;
+	font-size: .25rem;
+	padding-top:.25rem;
+}
+.bottom p{
+	font-size: .11rem;
+	padding-left:.21rem;
+	padding-top:5px;
+}

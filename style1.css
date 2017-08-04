@@ -24,6 +24,7 @@ body{
 }
 .header span{
 	display: inline-block;
+	height:.47rem;
 	width:.57rem;
 	font-size: .13rem;
 	color:#595959;
@@ -34,5 +35,5 @@ body{
 	border-bottom:1px solid #5686F4;
 }
 .main{
-
+	flex:1;
 }
